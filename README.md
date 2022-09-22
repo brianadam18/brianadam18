@@ -1,18 +1,17 @@
-# <h1 align="center">Hi 👋, I'm Brian Adam Bhagaskara</h1>
-
+<h1 align="center">Hi 👋 There</h1>
+<h3 align="center">My name is Brian Adam Bhagaskara. I'm From Indonesia . I'm is a Django Developer and Telegram Bot Developer . I really like discovering new things, contact me if you want to work together</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianadam18&label=Profile%20views&color=0e75b6&style=flat" alt="brianadam18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianadam18" alt="brianadam18" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/brianadam___" target="blank"><img src="https://img.shields.io/twitter/follow/brianadam___?logo=twitter&style=for-the-badge" alt="brianadam___" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/brianadam18?tab=repositories](https://github.com/brianadam18?tab=repositories)
 
 - 📫 How to reach me **brianadam404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brianadam___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianadam___" height="30" width="40" /></a>
-<a href="https://instagram.com/brianadam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brianadam_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
