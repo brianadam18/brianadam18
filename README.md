@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/brianadam18?tab=repositories](https://github.com/brianadam18?tab=repositories)
 
-- 📫 How to reach me **brianadam404@gmail.com**
+- 📫 How to reach me **brianadambhagaskara@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
